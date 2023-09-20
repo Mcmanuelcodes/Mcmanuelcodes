@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mcmanuelcodes
 - 👀 I’m interested in creating websites
 - 🌱 I’m currently learning HTML CSS and JavaScript 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  https://www.linkedin.com/in/emmanuel-olaniyi-546154292
 
 <!---
 Mcmanuelcodes/Mcmanuelcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
